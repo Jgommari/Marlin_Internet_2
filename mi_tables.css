@@ -16,7 +16,7 @@
 /* Table Styles */
 
 table#pricing{
-  background-image: linear-gradient:(to bottom, rgb(190, 215, 255), black);
+  background-image: linear-gradient(to bottom, rgb(190, 215, 255), black);
   border: 5px, solid gray;
 }
 table#pricing th, table#pricing td {
@@ -27,12 +27,12 @@ table#pricing th, table#pricing td {
 }
  table#pricing th{
   background-color: black;
-  font color: rgb(130, 210, 255);
+  color: rgb(130, 210, 255);
   font-weight: normal;
   
 }
  table#pricing td{
-  font color: white ;
+  color: white ;
   font-size: 0.9em;
   vertical-align: top;
 }
